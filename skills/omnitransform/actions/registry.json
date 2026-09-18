@@ -1,0 +1,130 @@
+{
+  "schema_version": 1,
+  "actions": [
+    {
+      "id": "summarize",
+      "command": "/لخص",
+      "label": "لخص",
+      "description": "تلخيص يحفظ الأفكار والحقائق الأساسية.",
+      "aliases": [
+        "ملخص",
+        "summarize"
+      ],
+      "path": "actions/summarize.md"
+    },
+    {
+      "id": "write",
+      "command": "/اكتب",
+      "label": "اكتب",
+      "description": "إنشاء محتوى جديد اعتمادًا على المدخلات.",
+      "aliases": [
+        "write"
+      ],
+      "path": "actions/write.md"
+    },
+    {
+      "id": "rewrite",
+      "command": "/اعد_الصياغة",
+      "label": "أعد الصياغة",
+      "description": "صياغة أوضح وأكثر احترافية دون تغيير المعنى.",
+      "aliases": [
+        "أعد_الصياغة",
+        "اعد الصياغة",
+        "rewrite"
+      ],
+      "path": "actions/rewrite.md"
+    },
+    {
+      "id": "analyze",
+      "command": "/حلل",
+      "label": "حلل",
+      "description": "استخراج الأفكار والملاحظات والاستنتاجات.",
+      "aliases": [
+        "analyze"
+      ],
+      "path": "actions/analyze.md"
+    },
+    {
+      "id": "report",
+      "command": "/تقرير",
+      "label": "تقرير",
+      "description": "تقرير منظم ومهني من المادة المتاحة.",
+      "aliases": [
+        "report"
+      ],
+      "path": "actions/report.md"
+    },
+    {
+      "id": "post",
+      "command": "/بوست",
+      "label": "بوست",
+      "description": "منشور متكيف مع المنصة والجمهور.",
+      "aliases": [
+        "منشور",
+        "post"
+      ],
+      "path": "actions/post.md"
+    },
+    {
+      "id": "tasks",
+      "command": "/مهام",
+      "label": "مهام",
+      "description": "خطوات عملية مع المسؤول والمواعيد إن وردت.",
+      "aliases": [
+        "tasks"
+      ],
+      "path": "actions/tasks.md"
+    },
+    {
+      "id": "script",
+      "command": "/سكريبت",
+      "label": "سكريبت",
+      "description": "سيناريو أو سكريبت فيديو جاهز للاستخدام.",
+      "aliases": [
+        "سيناريو",
+        "script"
+      ],
+      "path": "actions/script.md"
+    },
+    {
+      "id": "translate",
+      "command": "/ترجم",
+      "label": "ترجم",
+      "description": "ترجمة تحفظ المعنى والنبرة والمصطلحات.",
+      "aliases": [
+        "translate"
+      ],
+      "path": "actions/translate.md"
+    },
+    {
+      "id": "shorten",
+      "command": "/اختصر",
+      "label": "اختصر",
+      "description": "نص أقصر يحافظ على الرسالة الأساسية.",
+      "aliases": [
+        "shorten"
+      ],
+      "path": "actions/shorten.md"
+    },
+    {
+      "id": "explain",
+      "command": "/اشرح",
+      "label": "اشرح",
+      "description": "شرح مبسط وواضح متكيف مع القارئ.",
+      "aliases": [
+        "explain"
+      ],
+      "path": "actions/explain.md"
+    },
+    {
+      "id": "extract",
+      "command": "/استخرج",
+      "label": "استخرج",
+      "description": "استخراج الأسماء والأرقام والتواريخ والروابط والقرارات.",
+      "aliases": [
+        "extract"
+      ],
+      "path": "actions/extract.md"
+    }
+  ]
+}
