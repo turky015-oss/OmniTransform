@@ -1,0 +1,7 @@
+interface:
+  display_name: "OmniTransform"
+  short_description: "مدخل واحد.. أي مخرج. حوّل محتواك إلى ما تحتاجه."
+  icon_large: "./assets/logo.png"
+  default_prompt: "استخدم $omnitransform لتحويل المحتوى المرفق إلى المخرج الأنسب لطلبي."
+policy:
+  allow_implicit_invocation: true
